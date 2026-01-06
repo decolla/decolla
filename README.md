@@ -1,9 +1,8 @@
 <h1 align="center">Olá, eu sou Pedro De Colla! 👋</h1>
-
-<p align="center">
-  <a href="https://decolla.github.io/" target="_blank">
+<a href="https://decolla.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Site-blue" target="_blank">
-  </a> 
+</a> 
+<p align="center">
   🎓 <b>Ciência da Computação @ UFU</b> | 💻 <b>Desenvolvedor Full Stack & Dados</b>
 </p>
 
