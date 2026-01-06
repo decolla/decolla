@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou Pedro De Colla! 👋</h1>
 
 <div align="center">
-<a href="https://decolla.github.io/" target="_blank" width="150">
-    <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge" target="_blank">
+<a href="https://decolla.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge" target="_blank" width="150">
 </a> 
 </div>
 <div>
