@@ -2,9 +2,10 @@
 
 <div align="center">
 <a href="https://decolla.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge" target="_blank" width="150">
+    <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge" target="_blank" width="100">
 </a> 
 </div>
+---
 <div>
 <p align="center">
   🎓 <b>Ciência da Computação @ UFU</b> | 💻 <b>Desenvolvedor Full Stack & Dados</b>
