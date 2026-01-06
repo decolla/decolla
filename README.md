@@ -5,11 +5,11 @@
     <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge" target="_blank">
 </a> 
 <div>
-    
+<div>
 <p align="center">
   🎓 <b>Ciência da Computação @ UFU</b> | 💻 <b>Desenvolvedor Full Stack & Dados</b>
 </p>
-
+</div>
 ---
 
 ### 🚀 Sobre Mim
