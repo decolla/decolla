@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=decolla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decolla&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</div>
-
 <h1 align="center">Olá, eu sou Pedro De Colla! 👋</h1>
 
 <p align="center">
