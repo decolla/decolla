@@ -10,15 +10,14 @@
   🎓 <b>Ciência da Computação @ UFU</b> | 💻 <b>Desenvolvedor Full Stack & Dados</b>
 </p>
 </div>
----
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Atualmente sou estudante de Ciência da Computação na **Universidade Federal de Uberlândia (UFU)** e sigo sempre aprendendo cada vez mais!. 
 
 Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, explorando o ecossistema do **Apache Kafka**, **ksqlDB** e arquitetura de sistemas distribuídos. Gosto de entender como as coisas funcionam na sua camada mais básica, desde algoritmos complexos até a infraestrutura de backend.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens:**
 <div style="display: inline_block">
@@ -40,7 +39,7 @@ Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, expl
 
 ---
 
-### ⚡ Fun Facts & Hobbies
+### Hobbies
 
 Quando não estou codando ou estudando grafos e compiladores, você provavelmente vai me encontrar:
 
