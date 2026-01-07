@@ -39,11 +39,11 @@ Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, expl
 
 ### Hobbies
 
-Quando não estou codando ou estudando grafos e compiladores, você provavelmente vai me encontrar:
+Quando não estou codando ou estudando, você provavelmente vai me encontrar:
 
 * 🎸 **Música:** Tocando guitarra, violão ou piano.
 * 🎮 **Games:** Fã de jogos indie e roguelikes.
-* 📈 **Interesses:** Gosto de ler e cozinhar no meu tempo livre.
+* 📈 **Interesses:** Ler e cozinhar no meu tempo livre.
 
 ---
 
