@@ -14,7 +14,9 @@
 Atualmente sou estudante de Ciência da Computação na **Universidade Federal de Uberlândia (UFU)** e sigo sempre aprendendo cada vez mais!. 
 
 Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, explorando o ecossistema do **Apache Kafka**, **ksqlDB** e arquitetura de sistemas distribuídos. Gosto de entender como as coisas funcionam na sua camada mais básica, desde algoritmos complexos até a infraestrutura de backend.
+
 <h1></h1>
+
 ### Tech Stack
 
 **Linguagens:**
