@@ -35,18 +35,6 @@ Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, expl
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
----
-
-### Hobbies
-
-Quando não estou codando ou estudando, você provavelmente vai me encontrar:
-
-* 🎸 **Música:** Tocando guitarra, violão ou piano.
-* 🎮 **Games:** Fã de jogos indie e roguelikes.
-* 📈 **Interesses:** Ler e cozinhar no meu tempo livre.
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-de-colla/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
