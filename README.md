@@ -14,7 +14,7 @@
 Atualmente sou estudante de Ciência da Computação na **Universidade Federal de Uberlândia (UFU)** e sigo sempre aprendendo cada vez mais!. 
 
 Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, explorando o ecossistema do **Apache Kafka**, **ksqlDB** e arquitetura de sistemas distribuídos. Gosto de entender como as coisas funcionam na sua camada mais básica, desde algoritmos complexos até a infraestrutura de backend.
-
+<h1></h1>
 ### Tech Stack
 
 **Linguagens:**
@@ -34,7 +34,7 @@ Estou estagiando na área de tecnologia, focado em **Engenharia de Dados**, expl
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
+<h1></h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-de-colla/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
